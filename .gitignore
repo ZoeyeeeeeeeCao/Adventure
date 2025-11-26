@@ -10,7 +10,9 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-/[Aa]ssets/OnlineAssets/
+
+AdventureGame/Assets/OnlineAssets/
+AdventureGame/Assets/OnlineAssets.meta
 
 *.log
 
